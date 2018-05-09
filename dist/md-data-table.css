@@ -392,3 +392,9 @@ table.md-table td.md-cell md-select > .md-select-value > span.md-select-icon:aft
   -webkit-transform: scaleY(0.4) scaleX(0.8);
           transform: scaleY(0.4) scaleX(0.8);
 }
+
+.labelSpecialOntrack{
+  font-size: 100%;
+  font-weight: normal;
+  color: rgba(0,0,0,0.54);
+}
